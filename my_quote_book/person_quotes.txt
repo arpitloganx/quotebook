@@ -10,5 +10,9 @@ i like blue-Arpit Malaiya is the best
 >>>>>>> person_quotes
 
 
+<<<<<<< HEAD
 added red color
+=======
+added yellow
+>>>>>>> person_color
 
