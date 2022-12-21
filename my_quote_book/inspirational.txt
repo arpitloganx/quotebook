@@ -6,3 +6,7 @@ i like the blue one
 =======
 sent the file that got created
 >>>>>>> person_quotes
+
+
+
+The best way to create future is to create 
